@@ -2,11 +2,11 @@
 - 👀 I’m interested in React, all things frontend and Game dev.
 - 🌱 I’m currently learning - Unity
 
-Website: [https://astonehall.github.io](https://astonehall.github.io) https://astonehall.github.io
+Website: [https://astonehall.github.io](https://astonehall.github.io)
 
-Twitter: [https://astonehall.github.io](https://twitter.com/awstonehall) https://twitter.com/awstonehall
+Twitter: [https://twitter.com/awstonehall](https://twitter.com/awstonehall) 
 
-Linkedin: [https://astonehall.github.io](https://www.linkedin.com/in/ashleystonehall/) https://www.linkedin.com/in/ashleystonehall/
+Linkedin: [https://www.linkedin.com/in/ashleystonehall/](https://www.linkedin.com/in/ashleystonehall/) 
 
 <!---
 astonehall/astonehall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
