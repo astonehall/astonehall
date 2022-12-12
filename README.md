@@ -4,8 +4,6 @@
 
 Website: [https://astonehall.github.io](https://astonehall.github.io)
 
-Twitter: [https://twitter.com/awstonehall](https://twitter.com/awstonehall) 
-
 Linkedin: [https://www.linkedin.com/in/ashleystonehall/](https://www.linkedin.com/in/ashleystonehall/) 
 
 <!---
