@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Ashley W. Stonehall
-- 👀 I’m interested in React, all things frontend and Game dev.
-- 🌱 I’m currently learning - Unity
-
-Website: [https://awstonehall.netlify.app/](https://awstonehall.netlify.app/)
-
-Linkedin: [https://www.linkedin.com/in/ashleystonehall/](https://www.linkedin.com/in/ashleystonehall/) 
+- 👀 I’m a full developer who specialises in React and all things Frontend.
+- 🌱 I’m currently playing around with Next.js and Game dev iun Unity
 
 <!---
 astonehall/astonehall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
